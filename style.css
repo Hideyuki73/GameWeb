@@ -1,0 +1,11 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#canvas{
+    height: 100lvh;
+    width: 100lvw;
+    display: flex;
+    align-items: center;
+}
